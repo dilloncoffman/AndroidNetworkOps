@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='NetworkOps_10_31_19'
